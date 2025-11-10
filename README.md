@@ -5,7 +5,8 @@ This repository contains a **complete guide to STM32F1 series** for embedded sys
 ## Contents
 
 1. [SysTick Timer](https://github.com/myt-mthn/STM32F1-Manuals/blob/main/SysTick%20Timer.pdf)
-2. [DMA](https://github.com/myt-mthn/STM32F1-Manuals/STM32-DMA.pdf)
+2. [External Interrupts](https://github.com/myt-mthn/STM32F1-Manuals/blob/main/STM32%20-%20EXTI%20%26%20NVIC.pdf)
+3. [DMA](https://github.com/myt-mthn/STM32F1-Manuals/STM32-DMA.pdf)
 ---
 
 All examples are **bare-metal**, written in C using **CMSIS-style register programming**, no HAL or CubeMX.
