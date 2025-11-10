@@ -4,17 +4,7 @@ This repository contains a **complete guide to STM32F1 series** for embedded sys
 
 ## Contents
 
-1. [Introduction]
-2. [Clock System]
-3. [GPIO]
-4. [External Interrupts (EXTI)]
-5. [Timers]
-6. [ADC]
-7. [USART]
-8. [SysTick]
-9. [LCD]
-10. [Projects](10_Projects/)
-
+1. DMA(STM32F1-Manuals/)
 ---
 
 All examples are **bare-metal**, written in C using **CMSIS-style register programming**, no HAL or CubeMX.
